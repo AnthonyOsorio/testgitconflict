@@ -1,2 +1,4 @@
 # Status
-Working through the branches. Slightly confused but getting there.
+resolved conflict and got happier about it.
+
+
